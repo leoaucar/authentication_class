@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OAuth2.0
 Starter Code for Auth&amp;Auth course
 # Installing the Vagrant VM for ud330 - Authentication & Authorization
@@ -58,3 +59,7 @@ Now type **python database_setup.py** to initialize the database.
 Type **python lotsofmenus.py** to populate the database with restaurants and menu items. (Optional)
 
 Type **python project.py** to run the Flask web server. In your browser visit **http://localhost:5000** to view the restaurant menu app.  You should be able to view, add, edit, and delete menu items and restaurants.
+||||||| merged common ancestors
+=======
+# authentication_class
+>>>>>>> ec50210766f23650c89e817d783cfb40f4c12dd5
